@@ -5,7 +5,6 @@
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
   },
-  "author": "Yacine Rezgui <rezgui.y@gmail.com>"
   "author": {
     "name" : "Yacine Rezgui",
     "email" : "rezgui.y@gmail.com",
